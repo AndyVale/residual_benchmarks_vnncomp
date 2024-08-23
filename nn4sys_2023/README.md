@@ -26,10 +26,6 @@ More details in the original repo...
 	Number of parameters: 527494 
 	Node types: ['Gemm' 'Concat' 'Conv' 'Gather' 'Slice' 'Relu' 'Constant' 'Reshape']
 
-#### pensieve_mid_parallel.onnx 
-	Number of parameters: 264454 
-	Node types: ['Div' 'Gemm' 'Concat' 'Conv' 'Gather' 'ReduceSum' 'Slice' 'Mul' 'Relu' 'Flatten' 'Sub' 'Constant' 'Reshape' 'Split' 'MatMul']
-
 #### pensieve_mid_simple.onnx 
 	Number of parameters: 264454 
 	Node types: ['Gemm' 'Concat' 'Conv' 'Gather' 'Slice' 'Relu' 'Constant' 'Reshape']
